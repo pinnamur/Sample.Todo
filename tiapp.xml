@@ -7,6 +7,7 @@
     </deployment-targets>
     <id>com.appcelerator.sample.todo</id>
     <name>Todo List</name>
+    <guid></guid>
     <version>1.0</version>
     <publisher>tlukasavage</publisher>
     <url>http://appcelerator.com</url>
